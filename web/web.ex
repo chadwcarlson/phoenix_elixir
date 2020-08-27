@@ -52,6 +52,7 @@ defmodule PhoenixElixir.Web do
       import PhoenixElixir.Router.Helpers
       import PhoenixElixir.ErrorHelpers
       import PhoenixElixir.Gettext
+      import PhoenixElixir.ViewHelper
     end
   end
 
